@@ -70,7 +70,6 @@
     <Compile Include="Views\QuestionnaireView.xaml.cs">
       <DependentUpon>QuestionnaireView.xaml</DependentUpon>
     </Compile>
-    <Compile Include="QuestionnaireViewDesignViewModel.cs" />
     <Compile Include="ViewModels\QuestionnaireViewModel.cs" />
     <Page Include="Views\MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
