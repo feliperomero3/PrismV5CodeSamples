@@ -9,5 +9,5 @@ Samples by the Microsoft Patterns & Practices team.
 1.  [Getting Started Code Sample](GettingStartedCodeSample)
 2.	[Basic MVVM Quickstart](BasicMVVMQuickstart)
 3.	[UI Composition Code Sample](UICompositionCodeSamplePrism)
-4.	[Commanding Quickstart](Commanding Quickstart)
+4.	[Commanding Quickstart](CommandingQuickstart)
 
